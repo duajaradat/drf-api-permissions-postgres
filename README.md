@@ -11,11 +11,6 @@ Du'a Jaradat
 - Tahany
 - Mona
 
----
-
-## Links and Resources
-
-- [Pull Request]()
 
 ---
 
